@@ -2,7 +2,7 @@
   <img height="140" src="https://cap.dotnetcore.xyz/img/logo.svg">
 </p>
 
-# CAP 　　　　　　　　　　　　　　　　　　　　[English](https://github.com/dotnetcore/CAP/blob/master/README.md)
+# CAP 　　　　　　　　　　　　　　　　　　　　[English](https://github.com/nccreal/CAP/blob/master/README.md)
 [![Travis branch](https://img.shields.io/travis/dotnetcore/CAP/develop.svg?label=travis-ci)](https://travis-ci.org/dotnetcore/CAP)
 [![AppVeyor](https://ci.appveyor.com/api/projects/status/v8gfh6pe2u2laqoa?svg=true)](https://ci.appveyor.com/project/yang-xiaodong/cap)
 [![NuGet](https://img.shields.io/nuget/v/DotNetCore.CAP.svg)](https://www.nuget.org/packages/DotNetCore.CAP/)
